@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Generate a Random Name - Fake Name Generator",
+  "Type": "App",
+  "Id": "DJu_F1vtFEu0zdKIKvNbNA",
+  "Reference": "0OdMfM0g0UmWy1lpsKt-NA/DJu_F1vtFEu0zdKIKvNbNA",
+  "Created": "2025-01-18T02:39:33.3138483Z",
+  "Updated": "2025-01-18T02:39:33.3138483Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

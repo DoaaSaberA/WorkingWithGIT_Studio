@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="hmumETj52EmauyTE_79uXQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAACTklEQVRIS+2WT2/SYBzHd1i0LX2khadgNjl5XzKj4QWYzQ0ielkW3Wvw4FGnewNTZK/AeDXed1IDjD8uEgTKoGn5V0DawhRNlqIdaoATbddSJhfjk8+lyfPrJ8+fb37P3DGgZsqc6rsDKAlQAg5bFhFwKA3LjQQdQImAqhFuxu2hXZ6cy5OdgJxrMJlxe2qEW9Q41AIeJcsrvm/RWDeR7MYnJpH8fhArr/p5lDQStAHFIURx435fUX5bHL8Upbi5xSFE21jAIPbcVIK+otCbWwxiNxdkN+7NVpCbSmBpi3QEjXA09egJvb1zpEdhe6f0+Glx6QZvc5gc8lmC/G5wfx47vHgppUcasecRe9XmFIyvqYGg9Dz0ESV4HLYA9VlDC1DCMKEmQTMQsM9efLgAyhhZxxz8OHXM0cQcIg5Vu29NwL18FV66/mnZm9OQv+Zll71Vl0fA4fQrUE5OZFHsidIPLZLU4+vcqr+mibEFgfE4lWXaf7ekuaN/U5Dx32FnKsieU9BXFEWWdTmVez+/dgvrgQp6DgH3+s3bW/7keuDQpyblC9Brt5krV5u4c/pDLuwG383bMsPEqiggBIcSDdwpaf5uQVAOhtIo0QSDvqhLRy/GFgSVYCiDEoKm3pT/AlP+PQGLEEd6r4pacI9GCVFTb4paUEVJ5uba8ftwO3IgRaJSJNqORL/E4pUHD1mM1I2SMWOCzqD5QdbuSsPFBFyIDYnDhRRcLJKXG2f0LGPGBKNFCAA2cFgb4BxRHz5vdVuuKWrBiFHuVWinTcIfQc9VeCbvXDMAAAAASUVORK5CYII=" Selector="&lt;html app='chrome.exe' title='Generate a Random Name - Fake Name Generator' /&gt;" Title="Generate a Random Name - Fake Name Generator" Url="https://www.fakenamegenerator.com/" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="ca0fbd23e82ff5b044fb7672b904bcfc.jpg" xmlns="">0w1BgUl1tz0y_XUpJuqtJXQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
